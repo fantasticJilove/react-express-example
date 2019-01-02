@@ -1,0 +1,17 @@
+{
+  "name": "minimal-js",
+  "version": "1.0.0",
+  "description": "duyen setting up a minimal js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duyen",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.11"
+  },
+  "devDependencies": {
+    "parcel": "1.12.3"
+  }
+}
